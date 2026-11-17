@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Dashi Clip Labor - TikTok Login</title>
+<style>
+body{font-family:system-ui,sans-serif;max-width:640px;margin:60px auto;padding:0 20px;color:#222}
+code{display:block;word-break:break-all;background:#f3f3f3;padding:12px;border-radius:6px}
+</style>
+</head>
+<body>
+<h1>Dashi Clip Labor</h1>
+<p id="status">Processing TikTok login...</p>
+<code id="code" hidden></code>
+<script>
+var p = new URLSearchParams(location.search);
+var s = document.getElementById("status");
+var c = document.getElementById("code");
+if (p.get("error")) { s.textContent = "Login was cancelled or failed: " + (p.get("error_description") || p.get("error")); }
+else if (p.get("code")) { s.textContent = "TikTok login successful. Authorization code:"; c.textContent = p.get("code"); c.hidden = false; }
+else { s.textContent = "This page receives the TikTok login redirect for Dashi Clip Labor."; }
+</script>
+<p><a href="/">Back to Dashi Clip Labor</a></p>
+</body>
+</html>
