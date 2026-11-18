@@ -10,9 +10,9 @@ Last updated: November 17, 2026
 
 The controller responsible for data processing in connection with Dashi Clip Labor ("the App", "we", "us") is:
 
-[YOUR NAME / COMPANY]  
-[STREET, POSTCODE, CITY, COUNTRY]  
-Email: [CONTACT EMAIL]
+Dashi Clip Studio  
+Karl-Heinz-Klingen-Straße 92, 46539 Dinslaken, Germany  
+Email: dashi.cliplabor@gmx.de
 
 ## Data we collect
 
@@ -38,7 +38,7 @@ The App only uses technically necessary cookies or similar storage, for example 
 
 ## Your rights
 
-Under the GDPR you have the right to access, rectification, erasure, restriction of processing, data portability and to object to processing. You can also revoke the App's access at any time in your TikTok settings. To exercise your rights, contact us at [CONTACT EMAIL]. You also have the right to lodge a complaint with a data protection supervisory authority.
+Under the GDPR you have the right to access, rectification, erasure, restriction of processing, data portability and to object to processing. You can also revoke the App's access at any time in your TikTok settings. To exercise your rights, contact us at dashi.cliplabor@gmx.de. You also have the right to lodge a complaint with a data protection supervisory authority.
 
 ## Children
 
@@ -50,4 +50,4 @@ We may update this Privacy Policy. The current version is always available at th
 
 ## Contact
 
-Questions about this policy: [CONTACT EMAIL]
+Questions about this policy: dashi.cliplabor@gmx.de
