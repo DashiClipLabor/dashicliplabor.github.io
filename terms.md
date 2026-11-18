@@ -8,7 +8,7 @@ Last updated: November 17, 2026
 
 ## Scope
 
-These Terms of Service govern your use of Dashi Clip Labor ("the App"), operated by [YOUR NAME / COMPANY], [STREET, POSTCODE, CITY, COUNTRY], Email: [CONTACT EMAIL] ("we", "us"). By using the App you agree to these Terms.
+These Terms of Service govern your use of Dashi Clip Labor ("the App"), operated by Dashi Clip Studio, Karl-Heinz-Klingen-Straße 92, 46539 Dinslaken, Email: dashi.cliplabor@gmx.de ("we", "us"). By using the App you agree to these Terms.
 
 ## The service
 
@@ -52,4 +52,4 @@ The law of the Federal Republic of Germany applies, excluding the UN Convention 
 
 ## Contact
 
-[CONTACT EMAIL]
+dashi.cliplabor@gmx.de
